@@ -4,7 +4,7 @@ the book *JavaScript: The Good Parts Unearthing the Excellence in JavaScript*
 
 ![BookCover](http://akamaicovers.oreilly.com/images/9780596517748/lrg.jpg "Book cover")
 
-I loose motivation for reading programming books as soon as I can barely
+I lose motivation for reading programming books as soon as I can barely
 walk in that language and never go back to doing a cover to cover
 reading. I am a big fan of Coursera and like how they make the videos
 interactive with quizes. That allows you to validate your assumptions and
@@ -53,3 +53,6 @@ When in emacs, hit `C-c!` to bring up a prompt in the js buffer.  Then
 hit `C-c C-j` to send the current line from the buffer to the prompt in
 the *js* buffer, or select a set of lines and hit `C-c C-r` to send an
 entire region.
+
+### yasnippet ###
+Install yasnippet [js-mode](https://github.com/azer/js-yasnippets) to write the basic snippets fast.
